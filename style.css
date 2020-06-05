@@ -1,0 +1,300 @@
+li{
+
+    margin-left: 30px;
+    font-size: 11px;
+
+
+}
+.nav-item:active{
+    color: #2196f3 !important;
+    
+
+}
+.nav-link:hover{
+    color: #2196f3 !important;
+
+}
+
+.navbar-nav{
+
+    margin-top: 13px;
+    font: 400 12px/1.8 'Poppins', sans-serif;
+    letter-spacing: 2px;
+}
+
+.nav-link,.dropdown,.dropdown-item{
+
+
+    color: rgba(0, 0, 0, 0.5) !important;
+}
+.dropdown-item{
+
+    font: 200 12px/1.8 'Poppins', sans-serif;
+    letter-spacing: 2px;
+    font-size: 10px;
+}
+
+
+.header{
+
+    background-color: #fff !important;
+    padding-bottom: 10px;
+    padding-top: 4px;
+}
+@media screen and (min-width: 1100px) {
+    .imageset{
+
+        margin-left: 120px;
+
+    }
+}
+
+.carousel-item{
+
+    max-height: 800px;
+}
+
+.fa-code{
+
+font-weight:bold !important;
+color: #2196f3 !important;
+font-size: 25px !important;
+
+
+}
+.fa-paint-brush{
+
+    font-weight:bold !important;
+    color: #2196f3 !important;
+    font-size: 20px !important;
+
+}
+
+.fa-camera, .fa-bullhorn,.fa-desktop,.fa-diamond{
+    font-weight:bold !important;
+    color: #2196f3 !important;
+    font-size: 20px !important;
+
+
+}
+
+.aboutme{
+
+padding-top: 50px;
+padding-bottom: 30px;
+
+}
+.services{
+
+background-color: rgb(236, 236, 236);
+padding-top: 80px;
+padding-bottom: 60px;
+
+}
+
+.servicesContent{
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center !important;
+
+
+}
+.card{
+
+
+    box-shadow: 2px 4px 10px rgb(185, 185, 185);
+}
+
+
+
+
+
+@media screen and (max-width: 575px) {
+    .design{
+
+        padding-bottom: 0px;
+
+    }
+}
+
+.freelance{
+
+padding-top: 100px;
+text-align: center;
+padding-bottom: 70px;
+
+}
+
+.contact{
+    background-color: rgb(236, 236, 236);
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 70px;
+    
+    }
+
+.fa-mobile{
+
+
+    font-weight:bold !important;
+    color: #2196f3 !important;
+    font-size: 30px !important;
+
+}
+.fa-envelope,.fa-facebook-official,.fa-instagram,.fa-user-o,.fa-rocket,.fa-search,.fa-line-chart,.fa-pencil-square-o,.fa-phone,.fa-shirtsinbulk,.fa-tag,.fa-book{
+
+    font-weight:bold !important;
+    color: #2196f3 !important;
+    font-size: 20px !important;
+
+}
+
+@media screen and (max-width: 767px) {
+    .contactfaa{
+
+        text-align: center !important;
+
+    }
+    .map{
+
+padding-top: 50px !important;
+
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .contactfaa{
+
+        padding-top: 50px;
+
+    }
+}
+
+.foot{
+
+
+    color: rgb(177, 177, 177) !important;
+    font-size: 14px;
+    text-align: center;
+}
+.foot-logo{
+
+
+    color: rgb(177, 177, 177) !important;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 20px !important;
+}
+
+.rights{
+
+
+    color: white !important;
+    font-size: 13px;
+    text-align: center;
+    padding-top: 25px !important;
+
+}
+
+.footer{
+
+padding-top: 20px !important;
+padding-bottom: 50px !important;
+
+}
+
+.qoute{
+
+padding-top: 60px !important;
+padding-bottom: 20px !important;
+
+
+}
+
+.image{
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+}
+
+.serve{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+@media screen and (max-width: 725px) {
+    .cont{
+
+        font-size: 16px !important;
+
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .picset{
+
+      padding-top: 600px !important;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .picset{
+
+      padding-top: 0px !important;
+      margin-top: 0px !important;
+    
+     
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .serviceset{
+
+      padding-top: 40px !important;
+      padding-bottom: 20px !important;
+    
+     
+    }
+}
+
+
+.work{
+
+padding-bottom: 30px;
+
+
+}
+
+.textofpic{
+
+
+    padding-top: 60px !important; 
+    padding-bottom: 0px !important;
+}
+
+
+
+
+@media screen and (max-width: 991px) {
+    .textofpic{
+
+      padding-top: 0px !important;
+      padding-bottom: 0px !important;
+      
+    }
+    .setmobile{
+
+        padding-top: 0px !important;
+    }
+}
+@media screen and (max-width: 500px) {
+    .webimages{
+
+        width: 100%;
+    }
+}
+
+
